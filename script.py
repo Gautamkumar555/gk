@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 username = "gautamkumar555"
 email = "gk772269@gmail.com"
 repo_link = "https://github.com/Gautamkumar555/gk"  # Change to your repo
-commit_freq = 10  # commits per day
+commit_freq = 1  # commits per day
 start_date = datetime(2025, 1, 1)
 end_date = datetime.now()  # current date
 # ----------------------------------------------
